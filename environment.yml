@@ -2,5 +2,4 @@ name: parallelproj-environment
 channels:
   - conda-forge
 dependencies:
-  - parallelproj
   - numpy
